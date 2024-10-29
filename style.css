@@ -13,4 +13,6 @@ color: black;
 
 section{
 background-color: rgb(160, 23, 23);
+padding-top: 80px;
+padding-bottom: 80px;
 }
